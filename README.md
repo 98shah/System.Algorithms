@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/98shah/System.Algorithms/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/98shah/System.Algorithms/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/98shah/System.Algorithms/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
