@@ -1,10 +1,7 @@
 public class Solution {
     public void ReverseArray(int[] arr, int left, int right){
         while(left < right){
-            int temp = arr[left];
-            arr[left] = arr[right];
-            arr[right] = temp;
-
+            (arr[left], arr[right]) = (arr[right], arr[left]);
             left++;
             right--;
         }
